@@ -25,7 +25,7 @@ Welcome to my Data Science Portfolio! This repository serves as an organized ind
 
 ---
 
-## 🌐 Machine Learning Projects (https://github.com/hathimds/Machine-Learning)
+## 🌐 [Machine Learning Projects](https://github.com/hathimds/Machine-Learning)
 
 A collection of 14 diverse machine learning projects applying various supervised and unsupervised learning techniques on real-world datasets:
 
@@ -48,7 +48,7 @@ A collection of 14 diverse machine learning projects applying various supervised
 
 ---
 
-## 📆 Data Analysis Projects (https://github.com/hathimds/Data-Analysis)
+## 📆 [Data Analysis Projects](https://github.com/hathimds/Data-Analysis)
 
 * 🚒 **911 Calls Data Analysis**
 * 🏦 **Bank Stock Prices (Finance Data EDA)**
@@ -57,7 +57,7 @@ A collection of 14 diverse machine learning projects applying various supervised
 
 ---
 
-## 🤖 Simple Python Projects (https://github.com/hathimds/Python)
+## 🤖 [Simple Python Projects](https://github.com/hathimds/Python)
 
 * Calculator
 * Hand Cricket Game
@@ -67,7 +67,7 @@ A collection of 14 diverse machine learning projects applying various supervised
 
 ---
 
-## 🌐 Natural Language Processing Projects (https://github.com/hathimds/Natural-Language-Processing)
+## 🌐 [Natural Language Processing Projects](https://github.com/hathimds/Natural-Language-Processing)
 
 * Text-based Emotion Detection
 * Twitter Sentiment Analysis
