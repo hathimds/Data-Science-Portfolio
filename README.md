@@ -8,7 +8,7 @@ Welcome to my Data Science Portfolio! This repository serves as an organized ind
 
 ## 🔍 Featured Projects (Each in Dedicated Repo)
 
-### ✅ 1. [Layoff Analysis — MySQL Project](https://github.com/hathimds/Layoff-Analysis-Using-MySQL))
+### ✅ 1. [Layoff Analysis — MySQL Project](https://github.com/hathimds/Layoff-Analysis-Using-MySQL)
 
 > Performed data cleaning and exploratory data analysis on layoff data using MySQL queries.
 > 🔹 Tools: MySQL, EDA
