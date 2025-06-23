@@ -90,7 +90,7 @@ A collection of 14 diverse machine learning projects applying various supervised
 **Haathim Manaf**
 *Data Science & AI Enthusiast*
 🔗 [GitHub](https://github.com/hathimds)
-🔗 [LinkedIn](www.linkedin.com/in/haathim-manaf-01551131b)
+🔗 [LinkedIn](https://www.linkedin.com/in/haathim-manaf-01551131b)
 
 > More advanced ML, DL, and data pipeline projects coming soon!
 
